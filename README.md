@@ -1,4 +1,4 @@
-# AYU-RAKSHA IP — SIH 2026 FULL PROJECT
+# AYU-RAKSHA IP — SIH 2026 
 
 A fast SIH-ready full-stack prototype for:
 **“IP-SAKTI Sahayak: a multilingual, RAG-based (source-cited) AI assistant for Intellectual Property and regulatory guidance in Ayurveda, across national and international regimes.”**
