@@ -1,0 +1,132 @@
+[
+  {
+    "id": "ipindia-patents-act-1970",
+    "title": "Patents Act, 1970",
+    "type": "statute",
+    "authority": "IP India",
+    "jurisdiction": "India",
+    "version": "Current reference corpus",
+    "source_url": "https://ipindia.gov.in/acts-rules",
+    "text": "The Patents Act, 1970 provides the statutory framework for patents in India. Patentability assessment requires consideration of novelty, inventive step and industrial applicability, together with exclusions under the Act."
+  },
+  {
+    "id": "ipindia-section-3",
+    "title": "Patents Act Section 3 - What are not inventions",
+    "type": "statute",
+    "authority": "IP India",
+    "jurisdiction": "India",
+    "version": "Current reference corpus",
+    "source_url": "https://ipindia.gov.in/acts/patent-act-1970/section-3",
+    "text": "Section 3 of the Patents Act identifies categories that are not inventions within the meaning of the Act. For Ayurvedic and traditional formulations, exclusions and the nature of the claimed subject matter should be reviewed before assuming patentability."
+  },
+  {
+    "id": "ipindia-section-3-p",
+    "title": "Patents Act Section 3(p) and traditional knowledge",
+    "type": "statute",
+    "authority": "IP India",
+    "jurisdiction": "India",
+    "version": "Current reference corpus",
+    "source_url": "https://ipindia.gov.in/acts/patent-act-1970/section-3",
+    "text": "Section 3(p) is relevant to inventions that are in effect traditional knowledge or that aggregate or duplicate known properties of traditionally known components. Traditional knowledge screening should therefore form part of an Ayurvedic patent strategy."
+  },
+  {
+    "id": "tkdl-official",
+    "title": "Traditional Knowledge Digital Library",
+    "type": "traditional_knowledge",
+    "authority": "Government of India / CSIR",
+    "jurisdiction": "India",
+    "version": "Official TKDL reference",
+    "source_url": "https://www.tkdl.res.in/",
+    "text": "The Traditional Knowledge Digital Library provides structured documentation of traditional knowledge related to Indian systems of medicine. It is relevant to prior-art and traditional-knowledge screening for Ayurveda and other Indian traditional systems."
+  },
+  {
+    "id": "tkdl-sources",
+    "title": "TKDL Sources of Information",
+    "type": "traditional_knowledge",
+    "authority": "TKDL",
+    "jurisdiction": "India",
+    "version": "Official reference",
+    "source_url": "https://www.tkdl.res.in/",
+    "text": "TKDL is based on documented traditional knowledge sources associated with Indian systems of medicine. Screening against traditional knowledge can help identify potential prior-art or duplication concerns."
+  },
+  {
+    "id": "indiacode-biodiversity",
+    "title": "Biological Diversity Act",
+    "type": "biodiversity",
+    "authority": "India Code",
+    "jurisdiction": "India",
+    "version": "Current reference corpus",
+    "source_url": "https://www.indiacode.nic.in/",
+    "text": "India's biodiversity framework regulates access to biological resources and associated knowledge and provides mechanisms concerning access and benefit sharing. Ayurvedic innovations using biological resources should therefore consider origin, access and applicable ABS requirements."
+  },
+  {
+    "id": "ayush-ayurveda",
+    "title": "Ministry of Ayush",
+    "type": "regulatory",
+    "authority": "Ministry of Ayush",
+    "jurisdiction": "India",
+    "version": "Official reference",
+    "source_url": "https://ayush.gov.in/",
+    "text": "The Ministry of Ayush is the central government ministry responsible for policy and development concerning Ayurveda and other traditional systems of medicine. Product classification and applicable regulatory requirements should be verified against the relevant official framework."
+  },
+  {
+    "id": "cdsco-ayush",
+    "title": "Traditional Drugs and related regulatory information",
+    "type": "regulatory",
+    "authority": "CDSCO",
+    "jurisdiction": "India",
+    "version": "Official reference",
+    "source_url": "https://cdsco.gov.in/",
+    "text": "CDSCO provides regulatory information for drugs and related products in India. An Ayurvedic product should be classified correctly before determining the applicable approval, manufacturing, labelling and compliance pathway."
+  },
+  {
+    "id": "wipo-traditional-knowledge",
+    "title": "Traditional Knowledge and Intellectual Property",
+    "type": "international",
+    "authority": "WIPO",
+    "jurisdiction": "International",
+    "version": "Official reference",
+    "source_url": "https://www.wipo.int/tk/en/",
+    "text": "WIPO addresses the relationship between traditional knowledge and intellectual property. Traditional knowledge may raise questions involving patents, disclosure, prior art, benefit sharing and protection of community interests."
+  },
+  {
+    "id": "wipo-gratk",
+    "title": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge",
+    "type": "international_treaty",
+    "authority": "WIPO",
+    "jurisdiction": "International",
+    "version": "2024 Treaty reference",
+    "source_url": "https://www.wipo.int/treaties/en/ip/gratk/",
+    "text": "The WIPO treaty concerning intellectual property, genetic resources and associated traditional knowledge establishes an international framework addressing genetic resources and associated traditional knowledge in the patent context."
+  },
+  {
+    "id": "wipo-patent-disclosure",
+    "title": "Patent Disclosure Requirements relating to Genetic Resources and Traditional Knowledge",
+    "type": "international",
+    "authority": "WIPO",
+    "jurisdiction": "International",
+    "version": "Official reference",
+    "source_url": "https://www.wipo.int/",
+    "text": "International patent systems can include requirements or policy considerations concerning disclosure of genetic resources and associated traditional knowledge. Applicants should verify the requirements applicable in each target jurisdiction."
+  },
+  {
+    "id": "ayu-ip-screening",
+    "title": "Ayurvedic Innovation IP Screening Principle",
+    "type": "guidance",
+    "authority": "AYU-RAKSHA reference framework",
+    "jurisdiction": "India",
+    "version": "AYU-RAKSHA MVP framework",
+    "source_url": "https://ipindia.gov.in/",
+    "text": "For an Ayurvedic formulation, IP screening should consider product classification, novelty, inventive step, traditional knowledge overlap, formulation-specific contribution, trademarks, designs, trade secrets and geographical indication possibilities."
+  },
+  {
+    "id": "ayu-abs-screening",
+    "title": "Ayurvedic Biodiversity and ABS Screening Principle",
+    "type": "guidance",
+    "authority": "AYU-RAKSHA reference framework",
+    "jurisdiction": "India",
+    "version": "AYU-RAKSHA MVP framework",
+    "source_url": "https://www.indiacode.nic.in/",
+    "text": "When an Ayurvedic innovation uses biological resources or associated traditional knowledge, the innovation record should capture resource origin, source context and potential access and benefit-sharing considerations before commercialization."
+  }
+]
